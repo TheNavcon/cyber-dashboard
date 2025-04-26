@@ -1,0 +1,7 @@
+src/auth/*
+src/components/LandingPage.tsx
+src/components/LanguageContext.tsx
+src/components/LanguageSwitch.tsx
+src/components/Login.tsx
+src/components/Logo.tsx
+src/components/SharePointFileBrowser.tsx
